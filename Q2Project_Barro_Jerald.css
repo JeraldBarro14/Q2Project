@@ -1,0 +1,71 @@
+
+body{
+	background-color: #3D3626;
+	text-align: center;
+}
+image{
+	height: 300px;
+	border-radius: 50px;
+	padding: 20px;
+}
+.Special{
+	font-family: Bell MT;
+	color: #38352C;
+	background-color: #BBA24A;
+	letter-spacing: 2px;
+}
+
+.Div1{
+	text-shadow:  4px 4px #444236;
+	font-family: Bodoni MT Black;
+	color: DFDED7;
+}
+.Div2{
+	font-family: Castellar; 
+	background-color: #5B3110;
+	padding: 3px;
+}
+.Div3{
+	font-family: Castellar; 
+	background-color: #402109;
+	padding: 3px;
+}
+.Div4{
+	font-family: Castellar; 
+	background-color: #2E1603;
+	padding: 3px;
+}
+h2{
+	text-transform: uppercase;
+	letter-spacing: 12px;
+}
+u{
+	color: white;
+}
+span{
+	font-family: Century Gothic;
+	color: #978520;
+	text-align: center;
+}
+table{
+	margin-right: auto;
+	margin-left: auto;
+	box-shadow: 2px 2px #6D350E;
+	border-radius: 50px;
+	padding: 10px;
+}
+tr{
+	text-align: center;
+}
+.Website{
+	font-family: Bell MT;
+	background-color: #BBA24A;
+	color: #38352C;
+}
+.profile{
+	border-radius: 50%;
+	height: 50px;
+	border-style: inset;
+	border-color: rosybrown;
+
+}
